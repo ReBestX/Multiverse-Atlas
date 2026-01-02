@@ -105,16 +105,6 @@ This application uses the [Rick and Morty API](https://rickandmortyapi.com/docum
 - `GET /character/:id` — Fetch a single character by ID
 - `GET /episode/:ids` — Fetch episodes by IDs
 
-## 🖼️ Screenshots
-
-### Characters Page
-
-Browse and search through all Rick and Morty characters with a responsive grid layout.
-
-### Character Details
-
-View detailed information about each character including their profile, locations, and episode appearances.
-
 ## 🤝 Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
